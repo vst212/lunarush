@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lunarush/static/css/main.fb0ab869.chunk.css",
+    "main.js": "/lunarush/static/js/main.fbcfe7bb.chunk.js",
+    "main.js.map": "/lunarush/static/js/main.fbcfe7bb.chunk.js.map",
+    "runtime-main.js": "/lunarush/static/js/runtime-main.238d3537.js",
+    "runtime-main.js.map": "/lunarush/static/js/runtime-main.238d3537.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/lunarush/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f0912ce8.chunk.js": "/lunarush/static/js/2.f0912ce8.chunk.js",
+    "static/js/2.f0912ce8.chunk.js.map": "/lunarush/static/js/2.f0912ce8.chunk.js.map",
+    "static/js/3.d3525fde.chunk.js": "/lunarush/static/js/3.d3525fde.chunk.js",
+    "static/js/3.d3525fde.chunk.js.map": "/lunarush/static/js/3.d3525fde.chunk.js.map",
+    "index.html": "/lunarush/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/lunarush/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.fb0ab869.chunk.css.map": "/lunarush/static/css/main.fb0ab869.chunk.css.map",
+    "static/js/2.f0912ce8.chunk.js.LICENSE.txt": "/lunarush/static/js/2.f0912ce8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lunarush/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.238d3537.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f0912ce8.chunk.js",
+    "static/css/main.fb0ab869.chunk.css",
+    "static/js/main.fbcfe7bb.chunk.js"
+  ]
+}
